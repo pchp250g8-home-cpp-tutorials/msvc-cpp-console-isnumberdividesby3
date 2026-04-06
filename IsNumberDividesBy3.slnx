@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="IsNumberDividesBy3/IsNumberDividesBy3.vcxproj" Id="53013400-da93-48c4-be2b-d028819cb2e9" />
+</Solution>
